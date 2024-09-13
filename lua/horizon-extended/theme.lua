@@ -30,7 +30,7 @@ function M.setup()
 		ErrorText = { sp = c.red, undercurl = options.undercurl },
 		ErrorMsg = { fg = c.red },
 		Folded = { fg = c.blue, bg = c.bg2 },
-		Function = { fg = c.blue }, -- (preferred) function names
+		Function = { fg = c.realred }, -- (preferred) function names
 		HintText = { fg = c.green },
 		Identifier = { fg = c.red }, -- (preferred) any variable name
 		LineNr = { fg = c.mg2 },
