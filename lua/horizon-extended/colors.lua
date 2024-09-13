@@ -35,6 +35,7 @@ M.neo = {
 	difftext = hsl(38, 30, 25),
 	diffdelete = hsl(350, 30, 17),
 	markline = hsl(279, 30, 20),
+	realred = hsl(350, 85, 68),
 	none = "NONE",
 }
 
